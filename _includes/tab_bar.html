@@ -1,0 +1,14 @@
+<div class="header_wrapper">
+    <span class="header_name">Michael Long</span>
+    <nav class="tab_bar">
+        <span class="{% if include.page == 'home' %}curtab{% else %}tab{% endif %}">
+            <a href="/"><span>About Me</span></a>
+        </span>
+        <span class="{% if include.page == 'courses' %}curtab{% else %}tab{% endif %}">
+            <a href="/courses"><span>Course Work</span></a>
+        </span>
+        <span class="{% if include.page == 'projects' %}curtab{% else %}tab{% endif %}">
+            <a href="/projects"><span>Projects</span></a>
+        </span>
+    </nav>
+</div>
