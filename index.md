@@ -7,4 +7,6 @@ title: Home
 permalink: /
 ---
 
-![Me](/assets/0.jpg)I am a recently graduated from the Univeristy of Pittsbugh with a Bachelor of Science in Computer Science. Currently I am looking for a position in software development or software quality assurance.
+![Me](/assets/0.jpg)
+
+I am a recently graduated from the Univeristy of Pittsbugh with a Bachelor of Science in Computer Science. Currently I am looking for a position in software development or software quality assurance.
